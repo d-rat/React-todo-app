@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+.box {
+  height: 80%;
+  width: 80%;
+  box-shadow: 3px 3px 15px 6px rgba(0, 0, 0, 0.55);
+}
+.line {
+  text-decoration: line-through;
+}
