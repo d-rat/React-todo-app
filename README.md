@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## you can see the live demo [here](https://diliptodolist.netlify.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
